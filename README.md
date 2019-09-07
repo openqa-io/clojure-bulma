@@ -1,10 +1,10 @@
 # clojure-bulma
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to generate [Bulma](https://bulma.io "Bulma") CSS framework elements, built with [hiccup](https://github.com/weavejester/hiccup "hiccup")
 
 ## Usage
 
-FIXME
+Still very early stage... Come back later.
 
 ## License
 
